@@ -2,7 +2,7 @@
 
 - replace the license file with your desired license
 - rename solution, test, benchmarks, and main .csproj and reconnect their dependencies to eachother
-  - I recommend using the command `just rename NEW_PROJECT_NAME` in the project root for this
+  - I recommend using the command `just rename YourProjectName` in the project root for this
   - you can read more about the [just command runner](https://github.com/casey/just) first if you're skeptical about the tool
   - on windows install with `winget install Casey.Just`, use `just` in this directory to list commands included in the `justfile`
 - replace this readme
