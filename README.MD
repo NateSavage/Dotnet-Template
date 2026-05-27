@@ -2,7 +2,7 @@
 
 - replace the license file with your desired license
 - rename solution, test, benchmarks, and main .csproj and reconnect their dependencies to eachother
-  ^ I recommend using the included justfile with the command `just` [just command runner](https://github.com/casey/just)
+  - I recommend using the included justfile with the command `just` [just command runner](https://github.com/casey/just)
 - replace this readme
 
 ## Optionally
