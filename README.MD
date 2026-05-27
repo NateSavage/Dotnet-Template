@@ -13,10 +13,10 @@
 
 
 ### Unity & Godot Game Engine Language Support
-*Last updated: 2026-05-27*
 
 If you need to target both Unity and Godot, I would currently recommend netstandard 2.1 and C# 8. Unity is working on switching to MSBuild but I wouldn't expect it any time soon.
 
+*Last updated:* **2026-05-27**
 | Engine Version        | .NET Version         | C# Version | Backend        | Build System   | Compiler     | Nuget |
 | --------------------- | -------------------- | ---------- | -------------- | -------------- | ------------ | ----- |
 | Unity 4 or earlier    | .NET framework 3.5   | C# 3.5     | Mono           | Unity Build    | Proprietary  | ❌    |
