@@ -8,7 +8,8 @@
 - replace this readme
 
 #### Optionally
-- double check the dotnet version in the main .csproj file, there is a table below with ideal versions for Unity & Godot
+- in Source/YourProject.csproj, switch `<OutputType>Library</OutputType>` to `<OutputType>Exe</OutputType>` or [another output type](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-options/output#outputtype)
+- double check the dotnet version in Source/YourProject.csproj, there is a table below with ideal versions for Unity & Godot
 - add/remove items in .gitignore
 - uncomment categories in .gitconfig to enable better merge tools for unity projects
 
