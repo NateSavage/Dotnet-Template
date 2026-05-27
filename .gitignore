@@ -310,9 +310,13 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-### Unity Game Engine 
+### Unity Game Engine
 # ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Override the Unity /[Bb]uilds/ rule above — keep the Builds folder tracked but ignore its contents
+!Builds/
+Builds/*
+!Builds/.gitkeep
 
 # ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Godot Game Engine 

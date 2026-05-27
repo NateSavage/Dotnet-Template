@@ -1,8 +1,8 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetTemplate", "Source\DotnetTemplate.csproj", "{22DE6032-0A5D-4B58-999E-260691C62BD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{1A495AF4-25E7-449E-96EC-1CD7E7F6AC84}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetTemplates", "DotnetTemplates\DotnetTemplates.csproj", "{1A495AF4-25E7-449E-96EC-1CD7E7F6AC84}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmarks", "Benchmarks\Benchmarks.csproj", "{08B26254-04E0-4CF4-AFFE-33D2ED8AA00F}"
 EndProject

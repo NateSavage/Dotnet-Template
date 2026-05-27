@@ -8,8 +8,8 @@
 
   <!-- Dotnet Configuration -->
   <PropertyGroup>
-    <LangVersion>12.0</LangVersion>
-    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>13.0</LangVersion>
+    <TargetFramework>net9.0</TargetFramework>
 
     <RootNamespace></RootNamespace>
     
