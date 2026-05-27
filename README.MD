@@ -6,7 +6,7 @@
   - you can read more about the [just command runner](https://github.com/casey/just) first if you're skeptical about the tool
 - replace this readme
 
-## Optionally
+#### Optionally
 - double check the dotnet version in the main .csproj file, there is a table below with ideal versions for Unity & Godot
 - add/remove items in .gitignore
 - uncomment categories in .gitconfig to enable better merge tools for unity projects
